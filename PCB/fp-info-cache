@@ -1,4 +1,18 @@
-26442156052001944
+26461747048652585
+1101
+1101M2S3CQE2
+
+1101M2S3CQE2 
+0
+3
+3
+AO3400A
+SOT95P280X125-3N
+
+
+0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59268,6 +59282,27 @@ DRV8871DDARQ1
 0
 9
 9
+DRV8871_1
+DDA0008H_L
+
+DRV8871DDARQ1 
+0
+9
+9
+DRV8871_1
+DDA0008H_M
+
+DRV8871DDARQ1 
+0
+9
+9
+DRV8871_1
+DDA0008H_N_TEX
+
+DRV8871DDARQ1 
+0
+9
+9
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -61291,6 +61326,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32_S3_MINI_1_N8
+XCVR_ESP32-S3-MINI-1-N8
+
+
+0
+73
+73
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -62586,6 +62628,13 @@ heatsink
 0
 0
 0
+ICM-42688-P
+PQFN50P300X250X97-14N
+
+
+0
+14
+14
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -96522,6 +96571,20 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SFH_4545
+DIO_SFH_4545
+
+
+0
+2
+2
+SFH_4545_1
+DIO_SFH_4545
+
+
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -98622,6 +98685,13 @@ Logo WEEE
 0
 0
 0
+TEFT4300
+XDCR_TEFT4300
+
+
+0
+2
+2
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -105671,6 +105741,13 @@ Varistor VF
 0
 2
 2
+gura
+shark
+
+
+0
+0
+0
 superawesomephoto
 superawesomephoto
 
